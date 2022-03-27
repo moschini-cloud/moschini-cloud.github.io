@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.moschini.cloud/tags/bar/</loc>
+    <loc>/tags/bar/</loc>
     <lastmod>2022-03-12T18:27:00+01:00</lastmod>
   </url><url>
-    <loc>https://www.moschini.cloud/tags/foo/</loc>
+    <loc>/tags/foo/</loc>
     <lastmod>2022-03-12T18:27:00+01:00</lastmod>
   </url><url>
-    <loc>https://www.moschini.cloud/posts/my-first-post/</loc>
+    <loc>/posts/my-first-post/</loc>
     <lastmod>2022-03-12T18:27:00+01:00</lastmod>
   </url><url>
-    <loc>https://www.moschini.cloud/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2022-03-12T18:27:00+01:00</lastmod>
   </url><url>
-    <loc>https://www.moschini.cloud/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2022-03-12T18:27:00+01:00</lastmod>
   </url><url>
-    <loc>https://www.moschini.cloud/</loc>
+    <loc>/</loc>
     <lastmod>2022-03-12T18:27:00+01:00</lastmod>
   </url><url>
-    <loc>https://www.moschini.cloud/categories/</loc>
+    <loc>/categories/</loc>
   </url>
 </urlset>
